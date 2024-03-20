@@ -1,9 +1,9 @@
-function FooterComponent() {
+function Footer() {
     return(
-        <div>
+        <div className="footer">
             This is footer
         </div>
     )
 }
 
-export {FooterComponent}
+export {Footer}
